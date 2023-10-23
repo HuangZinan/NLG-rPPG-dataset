@@ -9,5 +9,11 @@ There is only a light sources (a fill-in light) that creates different lighting 
 The videos had a resolution of 640 * 480, and the actual frame rate of the camera was 30 fps. The illuminance levels for the three lighting conditions were 25 Lux, 45 Lux, and 100 Lux, respectively. For each subject, we recorded two one-minute videos under each lighting condition, resulting in a total of six video clips per individual and 84 (14*3*2) video clips in total. The example of different lighting conditions are shown below.
 ![Alt text](images/examples.jpg)
 ## 4.Contact
-
+Zinan Huang (znhuang@njust.edu.cn), Nanjing University of Science and Technology
 ## 5.Download
+* This database is released to universities and research institutes for research purpose only.
+
+* Note that please contact znhuang@njust.edu.cn for requests using an official email address (that is, university or institute email address, and non-official email addresses such as Gmail and 163 are not acceptable). When we receive your reply, we would provide the download link to you.
+
+  
+
