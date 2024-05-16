@@ -24,10 +24,10 @@ Zinan Huang (znhuang@njust.edu.cn), Nanjing University of Science and Technology
 ## 6.Citation
 If you find our paper or this dataset useful for your research, please cite our work.
 
-@article{Huang2024DeepLR,
+"@article{Huang2024DeepLR,
   title={Deep learning-based robust heart rate estimation using remote photoplethysmography under different illuminations},
   author={Zinan Huang and Chang-Hong Fu and Li Zhang and Hong Hong},
   journal={Fifteenth International Conference on Signal Processing Systems (ICSPS 2023)},
   year={2024},
   url={https://api.semanticscholar.org/CorpusID:268826631}
-}
+}"
